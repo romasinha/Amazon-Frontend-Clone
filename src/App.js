@@ -15,8 +15,8 @@ function App() {
           <h1>Login!</h1>
         </Route>
         <Route path = "/">
-          <h1>HomePage!</h1>
           <Header/>
+          <h1>HomePage!</h1>
         </Route>
       </Switch>
       </div>
