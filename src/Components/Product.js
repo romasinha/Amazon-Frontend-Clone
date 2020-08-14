@@ -22,7 +22,7 @@ function Product({id, title, price, rating, image}) {
             alt = "">
             </img>
             <button>Add to Basket</button>
-            <h1>This is Product</h1>
+            
         </div>
     )
 }
