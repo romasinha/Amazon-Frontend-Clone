@@ -2,6 +2,8 @@
    padding: 10px;
    height: max-content;
    display: flex;
+   background-color: white;
+   
 }
 
 .checkout__right{
@@ -9,9 +11,9 @@
 }
 
 .checkout__ad{
-    display: flex;
+    
     width: 100%;
-    height: 50%;
+    
     margin-bottom: 10px;
 }
 
